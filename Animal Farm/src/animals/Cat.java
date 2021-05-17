@@ -21,4 +21,9 @@ public class Cat
 		this.age = age;
 	}
 	
+	public void meow()
+	{
+		System.out.println("MEEEEEEEEOOOOOOWWW");	
+	}
+	
 }
